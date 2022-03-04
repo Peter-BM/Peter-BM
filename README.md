@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peter-BM
-- 👀 I’m interested in learning new stuff and get prepared to the real life;
+- 👀 I’m interested in learning new stuff and get prepared to the life;
 - 🌱 I’m currently learning python; 
-- 💞️ I’m looking to collaborate on any project that will give me some experience;
+- 💞️ I’m willing to collaborate on any project that will give me some experience;
 - 📫 How to reach me: Send an e-mail to pedrobobella@gmail.com 
 
 <!---
